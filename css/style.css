@@ -274,6 +274,9 @@ border-bottom-right-radius: 2.5%;
     margin-top: 1%;
     margin-left: 5%;
     position: absolute;
+        border-width: 5px;
+    border-style: solid;
+    border-color: 000;
     z-index: 1;
 }
 
@@ -1256,10 +1259,10 @@ p.footer{
 blockquote{
     
 
-     font-size: 3em;
+     font-size: 2.75em;
     padding-top: 7.5%;
     margin-left:10%;
-    margin-right:40%;
+    margin-right:10%;
     line-height: 75px;
     color: #000;
     
