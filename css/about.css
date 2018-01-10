@@ -617,7 +617,9 @@ border-bottom-right-radius: 2.5%;
     margin-top: 6.5%;
     margin-left: 20%;
      position: absolute;
-    background-color: #003da5;
+    background-image: url(../images/quote_border.svg);
+    background-color: #fcfcfc;
+         background-repeat: no-repeat;
 }
 
 #himage1{
