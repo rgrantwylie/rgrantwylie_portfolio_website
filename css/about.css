@@ -574,6 +574,8 @@ width: 100%;
   width: 75%;
   height: 750px;
   background: #f1f1f1;
+     background-image: url(../images/about_header.png);
+    background-size: 100%;
   overflow: hidden;
   position: relative;
     border-top-right-radius: 2.5%;
@@ -617,8 +619,7 @@ border-bottom-right-radius: 2.5%;
     margin-top: 6.5%;
     margin-left: 20%;
      position: absolute;
-    background-image: url(../images/quote_border.svg);
-    background-color: #fcfcfc;
+    background-color: #f9f9f9;
          background-repeat: no-repeat;
 }
 
@@ -626,7 +627,7 @@ border-bottom-right-radius: 2.5%;
     width: 35%;
     height: 400px;
     margin-top: 17.5%;
-    background-color: black;
+    background-color: transparent;
     float:left;
 }
 
@@ -642,7 +643,7 @@ border-bottom-right-radius: 2.5%;
     width: 35%;
     height: 400px;
     margin-top: 2.5%;
-    background-color: black;
+    background-color: transparent;
     float:left;
 }
 
@@ -658,7 +659,7 @@ border-bottom-right-radius: 2.5%;
     width: 35%;
     height: 400px;
     margin-top: 2.5%;
-    background-color: black;
+    background-color: transparent;
     float:left;
 }
 
@@ -958,7 +959,7 @@ h1.header{
     margin-left:10%;
     margin-right:40%;
     line-height: 75px;
-    color: #f5f5f5;
+    color: #000;
 }
 
     h2.quote{
@@ -1061,7 +1062,7 @@ p.about{
     margin-top: 5%;
     margin-left:10%;
     margin-right:20%;
-    color: #f5f5f5;
+    color: #000;
     line-height: 30px;
 }
 
