@@ -843,7 +843,7 @@ border-bottom-right-radius: 2.5%;
 #sectiontitle3{
    width: 25%;
     height: 100px;
-    margin-top:312.5%;
+    margin-top:270%;
     margin-left: 10%;
     border-style: solid;
     border-width: 5%;
@@ -854,7 +854,7 @@ border-bottom-right-radius: 2.5%;
 #sectiontitle4{
    width: 25%;
     height: 100px;
-    margin-top:357.5%;
+    margin-top:312.5%;
     margin-left: 10%;
     border-style: solid;
     border-width: 5%;
@@ -894,7 +894,7 @@ border-bottom-right-radius: 2.5%;
     
   width: 75%;
   height: 650px;
-margin-top: 10%;
+margin-top: 0%;
  
   background: #f1f1f1;
   overflow: hidden;
@@ -927,8 +927,8 @@ border-bottom-right-radius: 2.5%;
 #imagel1{
     
   width: 75%;
-  height: 1000px;
-margin-top: 20%;
+  height: 650px;
+margin-top: 10%;
  
   background: #f1f1f1;
   overflow: hidden;
